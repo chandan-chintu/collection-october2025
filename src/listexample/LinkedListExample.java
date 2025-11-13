@@ -9,7 +9,7 @@ public class LinkedListExample {
     public static void main(String[] args) {
         // declare
         List<Integer> list1 = new LinkedList<>();
-
+        //add some lines
         // add the data
         list1.add(23);
         list1.add(12);
@@ -21,7 +21,6 @@ public class LinkedListExample {
         // list1.add(null);
         list1.add(2);
         //list1.add(null);
-
         System.out.println("list1 is : "+list1);
 
         // remove data
