@@ -8,7 +8,6 @@ import java.util.List;
 public class LinkedListExample {
     public static void main(String[] args) {
         // declare
-
         List<Integer> list1 = new LinkedList<>();
         //add some lines
         // add the data
