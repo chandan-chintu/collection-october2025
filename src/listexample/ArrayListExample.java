@@ -25,13 +25,11 @@ public class ArrayListExample {
        // list1.add(null);
         list1.add(2);
         //list1.add(null);
-
         System.out.println("list1 is : "+list1);
-
         // remove data
         list1.remove(4);
         System.out.println("list1 after removing 4th index : "+list1);
-
+        // add some lines
         // search
         System.out.println("5th index data of list1 : "+list1.get(5));
         System.out.println("6th index data of list1 : "+list1.get(6));
